@@ -41,3 +41,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img {
+  margin: 5%;
+  width: 20%;
+  height: auto;
+  float: left
+}
