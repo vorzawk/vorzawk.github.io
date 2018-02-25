@@ -13,11 +13,11 @@ nav ul li, footer ul li {
     margin-right: 2%;
 }
 a {
-    text-decoration: none;
-    color: #999;
+    text-decoration: underline;
+    color: black;
 }
 a:hover {
-    text-decoration: underline;
+  color:green;
 }
 
 @media (min-width: 1000px) {
@@ -56,9 +56,16 @@ ul.posts li {
     list-style: none;
 }
 
-img {
+.me {
   margin: 1% 5% 1% 5%;
   width: 20%;
   height: auto;
   float: left
+}
+
+.kbeznak {
+    max-width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
