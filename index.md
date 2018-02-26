@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: Live to learn, Learn to grow
+title: Live to learn, learn to grow
 ---
 <div class="blurb">
 <h1>Hi there, I'm Abhilash!</h1>
