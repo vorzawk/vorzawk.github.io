@@ -7,10 +7,10 @@ title: Live to learn, learn to grow
 ---
 <div class="blurb">
 <h1>Hi there, I'm Abhilash!</h1>
-<p>I'm an computer programmer and student at <a href="https://www.tamu.edu/">Texas A&M University</a>. 
+<p>I'm an computer programmer and Graduate student at <a href="https://www.tamu.edu/">Texas A&M University</a>. 
 <br><br>
 I love meeting new people and will try to strike up a conversation whenever I see an opportunity.
-I have had some really interesting conversations and some awkward silences, I learn a lot by simply saying "Hi" whenever I get the chance!
+I have had some really interesting conversations and some awkward silences, I have learnt a lot by simply saying "Hi" whenever I get the chance!
 <br><br>
 <b>Words to live by:</b> <br>
 <ul>
